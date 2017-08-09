@@ -1,4 +1,4 @@
-package com.mickyli.springcloud.entity;
+package com.mickyli.learn.springcloud.entity;
 
 
 

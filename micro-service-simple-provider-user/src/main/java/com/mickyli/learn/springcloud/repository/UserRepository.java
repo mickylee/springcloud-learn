@@ -1,6 +1,6 @@
-package com.mickyli.springcloud.repository;
+package com.mickyli.learn.springcloud.repository;
 
-import com.mickyli.springcloud.entity.User;
+import com.mickyli.learn.springcloud.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
