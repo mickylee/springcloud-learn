@@ -6,5 +6,5 @@ create table user(
   name     VARCHAR(20),
   age      INT(3),
   balance  DECIMAL(10, 2),
-primary key(id)
+  primary key(id)
 );
